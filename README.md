@@ -19,6 +19,7 @@ a posição do numero escolhido ou se ele existe no vetor. Após encontrado ele 
 um swap com os numeros da frente até o numero escolhido chegar na
 ultima posição. Depois o vetor é realocado -1 espaço.
 
+# RESPOSTA EXER 6: A taxa de crescimento é menor que a ordem de log(n).
 
 # TEMPO EXER 6:
 
